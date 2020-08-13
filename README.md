@@ -19,7 +19,7 @@ I'm a computer engineering student at _Amirkabir University of Technology - Tehr
 <!--
 I am enthusiastic about UI/UX designing, especially for websites. I got my start in AUT's scientific chapter of computer engineering department as a graphic team member.
 -->
-Coding is a passion of mine !💻( specifically with languages like ![](https://img.shields.io/badge/-java-black?style=flat-circle&logo=Java), ![](https://img.shields.io/badge/-python3-black?style=flat-circle&logo=python) and ![](https://img.shields.io/badge/-c-black?style=flat-circle&logo=c) )
+Coding is a passion of mine!💻( specifically with languages like ![](https://img.shields.io/badge/-java-black?style=flat-circle&logo=Java), ![](https://img.shields.io/badge/-python3-black?style=flat-circle&logo=python) and ![](https://img.shields.io/badge/-c-black?style=flat-circle&logo=c) )
 
 I am enthusiastic about UI/UX designing, especially for websites.  I’m currently learning _VueJs_.
 
