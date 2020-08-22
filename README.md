@@ -21,7 +21,7 @@ I am enthusiastic about UI/UX designing, especially for websites. I got my start
 -->
 Coding is a passion of mine!💻
 
-( specifically with languages like ![](https://img.shields.io/badge/-java-black?style=flat-circle&logo=Java), ![](https://img.shields.io/badge/-python3-black?style=flat-circle&logo=python) and ![](https://img.shields.io/badge/-c-black?style=flat-circle&logo=c) )
+( specifically with languages like ![](https://img.shields.io/badge/-Java-black?style=flat-circle&logo=Java), ![](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=python) and ![](https://img.shields.io/badge/-C-black?style=flat-circle&logo=c) )
 
 <p align="center">
   <img src="https://thumbs.gfycat.com/AfraidElatedIsabellineshrike-size_restricted.gif">
