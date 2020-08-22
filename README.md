@@ -32,6 +32,6 @@ I am enthusiastic about UI/UX designing, especially for websites.  I’m current
 You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com) and also [![](https://img.shields.io/badge/-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
 -->
 You can reach me with:
-- [![](https://img.shields.io/badge/-Gmail-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com)
-- [![](https://img.shields.io/badge/-LinkedIn-black?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/amirhosseinalibakhshi)
-- [![](https://img.shields.io/badge/-Telegram-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
+- [![](https://img.shields.io/badge/:-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com)
+- [![](https://img.shields.io/badge/:-amirhosseinalibakhshi-black?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/amirhosseinalibakhshi)
+- [![](https://img.shields.io/badge/:-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
