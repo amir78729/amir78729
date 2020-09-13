@@ -33,6 +33,7 @@ I am enthusiastic about UI/UX designing, especially for websites. I got my start
 </p>
 
 ---
+<img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="150px" align="right" >
 
 Coding is a passion of mine!💻
 
@@ -40,10 +41,11 @@ Coding is a passion of mine!💻
 
 <p align="center">
   <!-- <img src="https://thumbs.gfycat.com/AfraidElatedIsabellineshrike-size_restricted.gif"> -->
-  <img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">
+  <!--<img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">-->
 </p>
 
 ---
+<img src="https://sdk.bitmoji.com/render/panel/67da4d89-9ad9-4eb1-8f46-960b84911a63-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="150px" align="left" >
 
 I am enthusiastic about UI/UX designing, especially for websites.
 
@@ -52,9 +54,9 @@ I’m currently learning _VueJs_ ✨
 You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com) and also [![](https://img.shields.io/badge/-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
 -->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://sdk.bitmoji.com/render/panel/67da4d89-9ad9-4eb1-8f46-960b84911a63-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">
-</p>
+</p>-->
 
 ---
 
