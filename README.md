@@ -1,11 +1,9 @@
 
-<p align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/6ce76d26-9c7a-4fd2-8675-f5d4225363d6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="200px">
+<p align="">
+  <img src="https://sdk.bitmoji.com/render/panel/6ce76d26-9c7a-4fd2-8675-f5d4225363d6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="60px">
+  Hi there! :)
 </p>
 
-
-
-Hi there! :)
 
 <!--
 **amir78729/amir78729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
