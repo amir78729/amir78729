@@ -1,8 +1,10 @@
 
-<p align="">
-  <img src="https://sdk.bitmoji.com/render/panel/6ce76d26-9c7a-4fd2-8675-f5d4225363d6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="60px">
-  Hi there! :)
+<p align="center">
+  <img src="https://sdk.bitmoji.com/render/panel/6ce76d26-9c7a-4fd2-8675-f5d4225363d6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">
+  
 </p>
+
+Hi there! :)
 
 
 <!--
@@ -26,7 +28,7 @@ I am enthusiastic about UI/UX designing, especially for websites. I got my start
 -->
 
 <p align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="200px">
+  <img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">
 </p>
 
 ---
@@ -36,8 +38,8 @@ Coding is a passion of mine!💻
 ( specifically with languages like ![](https://img.shields.io/badge/-Java-black?style=flat-circle&logo=Java), ![](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=python) and ![](https://img.shields.io/badge/-C-black?style=flat-circle&logo=c) )
 
 <p align="center">
-  <img src="https://thumbs.gfycat.com/AfraidElatedIsabellineshrike-size_restricted.gif">
-  <img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="200px">
+  <!-- <img src="https://thumbs.gfycat.com/AfraidElatedIsabellineshrike-size_restricted.gif"> -->
+  <img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">
 </p>
 
 ---
@@ -50,7 +52,7 @@ You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@g
 -->
 
 <p align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/67da4d89-9ad9-4eb1-8f46-960b84911a63-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="200px">
+  <img src="https://sdk.bitmoji.com/render/panel/67da4d89-9ad9-4eb1-8f46-960b84911a63-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">
 </p>
 
 ---
