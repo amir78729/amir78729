@@ -1,8 +1,8 @@
-
+<!--
 <p align="center">
   <img src="https://sdk.bitmoji.com/render/panel/6ce76d26-9c7a-4fd2-8675-f5d4225363d6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">
-  
 </p>
+-->
 
 Hi there! :)
 
@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 -->
 
 <!--<img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="left">-->
+
+ <img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">
+
 I'm a computer engineering student at _Amirkabir University of Technology - Tehran Polytechnic_ (AUT) 🎓
 <!--
 I am enthusiastic about UI/UX designing, especially for websites. I got my start in AUT's scientific chapter of computer engineering department as a graphic team member.
