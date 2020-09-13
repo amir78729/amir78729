@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--<img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="left">-->
 I'm a computer engineering student at _Amirkabir University of Technology - Tehran Polytechnic_ (AUT) 🎓
 <!--
 I am enthusiastic about UI/UX designing, especially for websites. I got my start in AUT's scientific chapter of computer engineering department as a graphic team member.
@@ -56,6 +57,9 @@ You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@g
 </p>
 
 ---
+
+
+<img src="https://sdk.bitmoji.com/render/panel/d0a21abe-de3b-47d8-a82f-77f72d52fd40-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="150px" align="right" >
 
 🤙 You can reach me with this ways:
 - [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com)
