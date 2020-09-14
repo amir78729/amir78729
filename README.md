@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!--<img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="left">-->
 
- <img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="left">
+ <img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="80px" align="left">
 
 I'm a computer engineering student at _Amirkabir University of Technology,
 
@@ -37,7 +37,7 @@ I am enthusiastic about UI/UX designing, especially for websites. I got my start
 
 ---
 
-<img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="right" >
+<img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="80px" align="right" >
 
 Coding is a passion of mine!💻
 
@@ -50,7 +50,7 @@ Coding is a passion of mine!💻
 
 ---
 
-<img src="https://sdk.bitmoji.com/render/panel/67da4d89-9ad9-4eb1-8f46-960b84911a63-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="left" >
+<img src="https://sdk.bitmoji.com/render/panel/67da4d89-9ad9-4eb1-8f46-960b84911a63-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="80px" align="left" >
 
 I am enthusiastic about UI/UX designing, especially for websites.
 
@@ -60,7 +60,7 @@ You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@g
 -->
 
 <!--<p align="center">
-  <img src="https://sdk.bitmoji.com/render/panel/67da4d89-9ad9-4eb1-8f46-960b84911a63-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px">
+  <img src="https://sdk.bitmoji.com/render/panel/67da4d89-9ad9-4eb1-8f46-960b84911a63-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="80px">
 </p>-->
 
 
@@ -69,7 +69,7 @@ You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@g
 
 <img src="https://sdk.bitmoji.com/render/panel/d0a21abe-de3b-47d8-a82f-77f72d52fd40-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="right" >
 
-🤙 You can reach me with this ways:
+🤙 You can reach me by:
 - [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com)
 - [![](https://img.shields.io/badge/-amirhosseinalibakhshi-black?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/amirhosseinalibakhshi)
 - [![](https://img.shields.io/badge/-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
