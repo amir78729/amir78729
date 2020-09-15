@@ -54,7 +54,7 @@ Coding is a passion of mine!💻
 
 I am enthusiastic about UI/UX designing, especially for websites.
 
-I’m currently learning _VueJs_ ✨
+I’m currently learning _Vue.js_ ✨
 <!--
 You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com) and also [![](https://img.shields.io/badge/-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
 -->
