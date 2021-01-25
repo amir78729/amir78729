@@ -43,7 +43,7 @@ Coding is a passion of mine!💻
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir78729&layout=compact&theme=radical) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir78729&layout=compact&theme=radical" align="center" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir78729&layout=compact&theme=dark" align="center" >
 
 <!--
 Specifically with languages like: -->
