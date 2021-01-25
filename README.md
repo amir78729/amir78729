@@ -41,11 +41,20 @@ I am enthusiastic about UI/UX designing, especially for websites. I got my start
 
 Coding is a passion of mine!💻
 
-Specifically with languages like:
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir78729&layout=compact&theme=radical) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir78729&layout=compact&theme=radical" align="center" >
+
+<!--
+Specifically with languages like: -->
+<!-- 
 - ![](https://img.shields.io/badge/-Java-black?style=flat-circle&logo=Java),
 - ![](https://img.shields.io/badge/-Python-black?style=flat-circle&logo=python), and 
-- ![](https://img.shields.io/badge/-C-black?style=flat-circle&logo=c) 
+- ![](https://img.shields.io/badge/-C-black?style=flat-circle&logo=c)  -->
+
+
+
+<img src="https://sdk.bitmoji.com/render/panel/d0a21abe-de3b-47d8-a82f-77f72d52fd40-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="right" >
 
 <p align="center">
   <!-- <img src="https://thumbs.gfycat.com/AfraidElatedIsabellineshrike-size_restricted.gif"> -->
@@ -77,3 +86,6 @@ You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@g
 - [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com)
 - [![](https://img.shields.io/badge/-amirhosseinalibakhshi-black?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/amirhosseinalibakhshi)
 - [![](https://img.shields.io/badge/-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
+
+
+
