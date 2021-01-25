@@ -54,7 +54,6 @@ Specifically with languages like: -->
 
 
 
-<img src="https://sdk.bitmoji.com/render/panel/d0a21abe-de3b-47d8-a82f-77f72d52fd40-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="right" >
 
 <p align="center">
   <!-- <img src="https://thumbs.gfycat.com/AfraidElatedIsabellineshrike-size_restricted.gif"> -->
