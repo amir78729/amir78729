@@ -64,9 +64,9 @@ Specifically with languages like: -->
 
 <img src="https://sdk.bitmoji.com/render/panel/67da4d89-9ad9-4eb1-8f46-960b84911a63-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="80px" align="left" >
 
-I am enthusiastic about UI/UX designing, especially for websites.
+I am enthusiastic about front-end development.
 
-I’m currently learning _Vue.js_ ✨
+I’m currently working with _Reactjs_  at [TAPSI](https://tapsi.ir/) as a front-end developer ✨
 <!--
 You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com) and also [![](https://img.shields.io/badge/-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
 -->
