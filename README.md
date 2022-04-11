@@ -24,9 +24,11 @@ Here are some ideas to get you started:
 
 <!--<img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="left">-->
 
- <img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="80px" align="left">
+<img src="https://sdk.bitmoji.com/render/panel/7b0d608b-8b79-4d57-a49f-f15a558f61c8-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="80px" align="left">
+ 
+<!--<img src="https://cdn.discordapp.com/attachments/732234196487241741/963000965282279434/casual-life-3d-boy-sitting-at-the-desk-doing-exam-1.png" width="80px" align="left">-->
 
-I'm a computer engineering student at _Amirkabir University of Technology,
+I'm a computer engineering student at Amirkabir University of Technology,
 
 _Tehran Polytechnic_ (AUT) 🎓
 <!--
@@ -80,6 +82,9 @@ You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@g
 
 
 <img src="https://sdk.bitmoji.com/render/panel/d0a21abe-de3b-47d8-a82f-77f72d52fd40-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="100px" align="right" >
+
+<!--<img src="https://cdn.discordapp.com/attachments/732234196487241741/963000963323527188/casual-life-3d-white-envelope-with-blue-letter.png" width="120px" align="right" >-->
+
 
 🤙 You can reach me by:
 - [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com)
