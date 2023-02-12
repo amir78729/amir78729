@@ -4,8 +4,11 @@
 </p>
 -->
 
-Hi there! :)
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF707&center=true&vCenter=true&repeat=false&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Amirhossein+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+Github+page!+)](https://git.io/typing-svg)
+  
+</div>
 
 <!--
 **amir78729/amir78729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -68,7 +71,7 @@ Specifically with languages like: -->
 
 I am enthusiastic about front-end development.
 
-I’m currently working with _Reactjs_  at [TAPSI](https://tapsi.ir/) as a front-end developer ✨
+I’m currently working with _React.js_ and _Express.js_ at [TAPSI](https://tapsi.ir/) as a full-stack developer ✨
 <!--
 You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com) and also [![](https://img.shields.io/badge/-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
 -->
