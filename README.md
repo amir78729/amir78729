@@ -10,8 +10,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF707&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Amirhossein+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+Github+page!+)](https://git.io/typing-svg)
 
-![GitHub followers](https://img.shields.io/github/followers/amir78729?style=flat&logo=github&labelColor=black)
-![GitHub User's stars](https://img.shields.io/github/stars/amir78729?style=flat&logo=github&labelColor=black)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/amir78729?style=flat&logo=github&labelColor=black) -->
+<!-- ![GitHub User's stars](https://img.shields.io/github/stars/amir78729?style=flat&logo=github&labelColor=black) -->
   
 </div>
 
