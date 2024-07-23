@@ -93,7 +93,7 @@ You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@g
 <!--<img src="https://cdn.discordapp.com/attachments/732234196487241741/963000963323527188/casual-life-3d-white-envelope-with-blue-letter.png" width="120px" align="right" >-->
 
 
-🤙 You can reach me by:
+<img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/chat-bubble.gif" alt="chat bubble" width="24px" /> You can reach me by:
 - [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com)
 - [![](https://img.shields.io/badge/-amirhosseinalibakhshi-black?style=flat-circle&logo=linkedin)](https://www.linkedin.com/in/amirhosseinalibakhshi)
 - [![](https://img.shields.io/badge/-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
