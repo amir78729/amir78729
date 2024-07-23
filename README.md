@@ -5,7 +5,6 @@
 -->
 
 
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1DF707&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Amirhossein+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Welcome+to+my+Github+page!+)](https://git.io/typing-svg)
@@ -49,7 +48,7 @@ I am enthusiastic about UI/UX designing, especially for websites. I got my start
 
 <img src="https://sdk.bitmoji.com/render/panel/042c5481-28ec-4d85-8f58-1e8f2376bfc6-9b405aba-93b2-440f-862b-045521d28ada-v1.png?transparent=1&palette=1" width="80px" align="right" >
 
-Coding is a passion of mine!💻
+Coding is a passion of mine! <img src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/guy-with-laptop-1.gif" width="24px" />
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir78729&layout=compact&theme=radical) -->
@@ -76,7 +75,7 @@ Specifically with languages like: -->
 
 I am enthusiastic about front-end development.
 
-I’m currently working with _React.js_ and _Express.js_ at [TAPSI](https://tapsi.ir/) as a full-stack developer ✨
+I’m currently working with _React.js_ and _Express.js_ at [TAPSI](https://tapsi.ir/) as a full-stack developer <img height="24px" src="https://raw.githubusercontent.com/goforbg/telegram-emoji-gifs/master/star-twinkl.gif" alt="✨" />
 <!--
 You can reach me with [![](https://img.shields.io/badge/-amirhosseinalibakhshi@gmail.com-black?style=flat-circle&logo=gmail)](mailto:amirhosseinalibakhshi@gmail.com) and also [![](https://img.shields.io/badge/-@amirhosseinalibakhshi-black?style=flat-circle&logo=telegram)](http://t.me/amirhosseinalibakhshi)
 -->
