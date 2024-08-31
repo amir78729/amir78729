@@ -52,7 +52,22 @@ Coding is a passion of mine! <img src="https://raw.githubusercontent.com/goforbg
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amir78729&layout=compact&theme=radical) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir78729&layout=compact&theme=dark" align="center" >
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir78729&show_icons=true&locale=en&theme=dark&rank_icon=github" />
+
+<br>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amir78729&theme=dark&rank_icon=github" />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=dark" />
+
+
+<!-- <br> -->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amir78729&theme=dark" align="center" > -->
+
+
 
 <!--
 Specifically with languages like: -->
