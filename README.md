@@ -60,7 +60,7 @@ Coding is a passion of mine! <img src="https://raw.githubusercontent.com/goforbg
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amir78729&theme=dark&rank_icon=github" />
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=dark" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&theme=dark" /> -->
 
 
 <!-- <br> -->
