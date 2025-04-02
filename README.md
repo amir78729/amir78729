@@ -2,6 +2,7 @@
   <h1><samp>Amirhossein Alibakhshi</samp></h1>
 
   <samp>Enthusiastic for</samp>
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=1500&pause=2000&center=true&vCenter=true&width=700&height=35&lines=React;JavaScript;Typescript;Accessibility;Softwares;UX+Design;Python;Front-end+Development;Web+Components;Writing+Tests;Back-end+Development;Developing+NPM+Packages+)](https://git.io/typing-svg)
 
 
